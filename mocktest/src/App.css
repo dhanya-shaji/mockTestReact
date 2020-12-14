@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  place-content: center;
+  align-items: center;
+background-color: silver;
+
+}
+.selectbox{
+  width: 20%;
+}
+.delete{
+  color:red;
+}
+.profile{
+  background-color: seashell;
+}
